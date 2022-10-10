@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Guyana",
+        "id": "Q734"
+    },
+    "cabinet": {
+        "start":  "2022-06-21",
+        "end":    "2022-06-30",
+        "parent": "Q104850590"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "270"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Guyana"
+    }
+}
