@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Guyana",
+        "id": "Q734"
+    },
+    "cabinet": {
+      "id":     "Q114565567",
+      "start":  "2020-08-05",
+      "parent": "Q104850590"
+    },
+    "reference": {
+        "P854":   "https://dpi.gov.gy/cabinet-members/",
+        "P1476": {
+            "text": "Cabinet Members – Department of Public Information, Guyana",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Guyana"
+    }
+}
