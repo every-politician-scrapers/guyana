@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Guyana",
+        "id": "Q734"
+    },
+    "cabinet": {
+      "id":     "Q114565567",
+      "start":  "2020-08-05",
+      "end":    "2020-08-06",
+      "parent": "Q104850590"
+    },
+    "reference": {
+        "P854":   "https://caribbean.loopnews.com/content/20-ministers-appointed-guyana",
+        "P1476": {
+            "text": "19 ministers appointed to Guyana's new cabinet",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Guyana"
+    }
+}
