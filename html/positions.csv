@@ -1,9 +1,31 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q56063486,Attorney General of Guyana,Q734,Q734,,,,,,,Attorney General of Guyana
 Q6570925,First Lady of Guyana,Q734,Q734,,,,,,,First Lady of Guyana
+Q114565657,Foreign Secretary of Guyana,Q734,Q734,,,2019-05,,,,
 Q28220864,Guyanese Ambassador to the United States,Q734,,,,,,,,List of ambassadors of Guyana to the United States
 Q28058213,Guyanese ambassador to China,Q734,,,,,,,,List of ambassadors of Guyana to China
 Q18654760,Member of the National Assembly  of Guyana,Q734,Q734,,,,,,,
+Q114565676,Minister in the Ministry of Housing and Water,Q734,Q734,,,,,,,
+Q114565677,Minister in the Ministry of Local Government and Regional Development,Q734,Q734,,,,,,,
+Q114565678,Minister in the Ministry of Public Works,Q734,Q734,,,,,,,
 Q6866032,Minister of Agriculture,Q734,Q734,,,,,,,Minister of Agriculture (Guyana)
+Q114565468,Minister of Amerindian Affairs,Q734,Q734,,,,,,,
+Q114565680,"Minister of Culture, Youth, and Sport",Q734,Q734,,,,,,,
+Q114565388,Minister of Education of Guyana,,Q734,,,,,,,
+Q114565391,Minister of Finance,,Q734,,,,,,,
 Q113470671,Minister of Foreign Affairs,,Q734,,,,,,,
-Q685925,President of Guyana,Q734,Q734,,Q14940077,1970-02-23,,,,President of Guyana
+Q114565390,Minister of Health of Guyana,Q734,Q734,,,,,,,
+Q114565466,Minister of Home Affairs,Q734,Q734,,,,,,,
+Q114565682,Minister of Housing and Water,Q734,Q734,,,,,,,
+Q114565684,Minister of Human Services and Social Security,Q734,Q734,,,,,,,
+Q114565685,Minister of Labour,Q734,Q734,,,,,,,
+Q114565686,Minister of Local Government and Regional Development,Q734,Q734,,,,,,,
+Q114565687,Minister of Natural Resources,Q734,Q734,,,,,,,
+Q114565688,Minister of Parliamentary Affairs and Governance,Q734,Q734,,,,,,,
+Q114565689,Minister of Public Service,Q734,Q734,,,,,,,
+Q114565690,Minister of Public Works,Q734,Q734,,,,,,,
+Q114565691,"Minister of Tourism, Industry, and Commerce",Q734,Q734,,,,,,,
+Q114565692,Minister within the Office of the Prime Minister,Q734,Q734,,,,,,,
+Q685925,President of Guyana,Q734,Q734,Q48775023,Q14940077,1970-02-23,,,,President of Guyana
 Q376006,Prime Minister of Guyana,Q734,Q734,,Q20725053,,,,,
+Q48775023,Vice President of Guyana,Q734,Q734,,,,,,,Vice President of Guyana
