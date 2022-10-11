@@ -1,0 +1,184 @@
+{
+  "title": "Frank C.S. Anthony",
+  "pageID": 65966756,
+  "categories": [
+    "Living people",
+    "Members of the National Assembly (Guyana)",
+    "Peoples' Friendship University of Russia alumni",
+    "Hebrew University-Hadassah Braun School of Public Health and Community Medicine alumni",
+    "Year of birth missing (living people)",
+    "Government ministers of Guyana"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Frank Christopher Stanislaus Anthony is a Guyanese politician.",
+              "links": [
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Frank Christopher Stanislaus Anthony"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister of Health for the Government of Guyana.",
+              "links": [
+                {
+                  "text": "Government of Guyana",
+                  "type": "internal",
+                  "page": "Politics of Guyana"
+                }
+              ]
+            },
+            {
+              "text": "Anthony was appointed Minister in August 2020 by President Irfaan Ali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Frank C.S. Anthony"
+          },
+          "office": {
+            "text": "Minister of Health of Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "August 5, 2020"
+          },
+          "party": {
+            "text": "People's Progressive Party (Guyana)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "image": {
+            "text": "Frank C S Anthony (cropped).jpg"
+          },
+          "caption": {
+            "text": "Anthony in 2022"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "November 28, 2020",
+          "title": "Guyana gov't to provide bonus and risk allowances for all healthcare workers",
+          "url": "https://www.nycaribnews.com/articles/guyana-govt-to-provide-bonus-and-risk-allowances-for-all-healthcare-workers/",
+          "access-date": "2020-11-29",
+          "website": "www.nycaribnews.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-11-29",
+          "title": "Infectious Disease Hospital’s COVID-19 ICU now fully operational",
+          "url": "https://www.stabroeknews.com/2020/11/29/news/guyana/infectious-disease-hospitals-covid-19-icu-now-fully-operational/",
+          "access-date": "2020-11-29",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anthony attended Peoples' Friendship University of Russia where he studied nedicine and obtained a Bachelor of Science degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peoples' Friendship University of Russia"
+                }
+              ]
+            },
+            {
+              "text": "He also attended Hebrew University where he obtained a Master’s in Public Health degree.",
+              "links": [
+                {
+                  "text": "Hebrew University",
+                  "type": "internal",
+                  "page": "Hebrew University of Jerusalem"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his nomination as minister, Anthony served as Executive Director of the Health Sector Development Unit Ministry of Health."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://fhs.uog.edu.gy/staff/dr-frank-anthony",
+          "title": "Dr. Frank Anthony",
+          "website": "University of Guyana",
+          "access-date": "20 June 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://newsroom.gy/2020/08/05/dr-frank-anthony-to-be-minister-of-health/",
+          "title": "Dr Frank Anthony to be Minister of Health",
+          "website": "News Room Guyana",
+          "access-date": "20 June 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

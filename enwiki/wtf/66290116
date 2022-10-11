@@ -1,0 +1,166 @@
+{
+  "title": "Anand Persaud",
+  "pageID": 66290116,
+  "categories": [
+    "Living people",
+    "Members of the National Assembly (Guyana)",
+    "Government ministers of Guyana",
+    "People's Progressive Party (Guyana) politicians",
+    "South American political people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anand Persaud (born in Guyana) is a Guyanese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                },
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Anand Persaud"
+                ]
+              }
+            },
+            {
+              "text": "He is a current Minister of Local Government and Regional Development in Guyana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ]
+            },
+            {
+              "text": "Persaud was sworn into President Irfaan Ali's cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Minister in August 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anand Persaud"
+          },
+          "office": {
+            "text": "Minister in the Ministry of Local Government and Regional Development in Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "August 5, 2020"
+          },
+          "appointer": {
+            "text": "Irfaan Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irfaan Ali"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "party": {
+            "text": "People's Progressive Party (Guyana)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "December 30, 2020",
+          "title": "Ministries to repair 100 roads",
+          "url": "https://www.stabroeknews.com/2020/12/30/news/guyana/ministries-to-repair-100-roads/",
+          "access-date": "January 4, 2021",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "October 28, 2020",
+          "title": "Upgrades for East Ruimveldt, Albouystown markets -Minister Persaud",
+          "url": "https://www.stabroeknews.com/2020/10/28/news/guyana/upgrades-for-east-ruimveldt-albouystown-markets-minister-persaud/",
+          "access-date": "January 4, 2021",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chabrol",
+          "first": "Denis",
+          "date": "August 5, 2020",
+          "title": "President Ali swears in 19 other Cabinet members",
+          "url": "https://demerarawaves.com/2020/08/05/president-ali-swears-in-19-other-cabinet-members/",
+          "access-date": "January 4, 2021",
+          "website": "Demerara Waves Online News- Guyana",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

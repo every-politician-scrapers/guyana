@@ -1,0 +1,147 @@
+{
+  "title": "Collin Croal",
+  "pageID": 66243599,
+  "categories": [
+    "Living people",
+    "People's Progressive Party (Guyana) politicians",
+    "Members of the National Assembly (Guyana)",
+    "Government ministers of Guyana",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Collin Croal (born in Guyana) is a Guyanese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                },
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Collin Croal"
+                ]
+              }
+            },
+            {
+              "text": "He is the Minister of Housing and Water in Guyana."
+            },
+            {
+              "text": "He was appointed Minister in August 2020 by President Irfaan Ali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Collin D. Croal"
+          },
+          "office": {
+            "text": "Minister of Housing and Water of Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "termstart": {
+            "text": "August 2020"
+          },
+          "party": {
+            "text": "People's Progressive Party",
+            "links": [
+              {
+                "text": "People's Progressive Party",
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Guyanese",
+            "links": [
+              {
+                "text": "Guyanese",
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "30 December 2020",
+          "title": "Housing ministry distributes 3,600 house lots in regions 3,4,6",
+          "url": "https://www.stabroeknews.com/2020/12/30/news/guyana/housing-ministry-distributes-3600-house-lots-in-regions-346/",
+          "access-date": "30 December 2020",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "30 December 2020",
+          "title": "GWI distributes 270 hot meals",
+          "url": "https://www.stabroeknews.com/2020/12/30/news/guyana/gwi-distributes-270-hot-meals/",
+          "access-date": "30 December 2020",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "6 August 2020",
+          "title": "Minister Croal and Rodrigues met with staff of the MOHW",
+          "url": "https://citizensreportgy.com/?p=15935",
+          "access-date": "30 December 2020",
+          "website": "Citizens' Report",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

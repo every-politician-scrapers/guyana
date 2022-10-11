@@ -1,0 +1,193 @@
+{
+  "title": "Mohabir Anil Nandlall",
+  "pageID": 42738347,
+  "categories": [
+    "1973 births",
+    "Government ministers of Guyana",
+    "21st-century Guyanese lawyers",
+    "People from Georgetown, Guyana",
+    "Living people",
+    "Attorneys General of Guyana",
+    "21st-century Guyanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohabir Anil Nandlall (born 17 February 1976) is the Attorney General and Minister of Legal Affairs of Guyana as of 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohabir Anil Nandlall"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Attorney General and Minister of Legal Affairs of Guyana from 2011 to 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1972",
+            "month": "02",
+            "date": "17",
+            "df": "yes",
+            "template": "birth date",
+            "text": "February 17, 1972"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohabir Anil Nandlall"
+          },
+          "image": {
+            "text": "Anil Nandlall.jpg"
+          },
+          "caption": {
+            "text": "Nandlall in 2014"
+          },
+          "birth_name": {
+            "text": "Mohabir Anil Nandlall"
+          },
+          "birth_date": {
+            "text": "February 17, 1972"
+          },
+          "office1": {
+            "text": "Attorney General and Minister of Legal Affairs",
+            "links": [
+              {
+                "text": "Attorney General and Minister of Legal Affairs",
+                "type": "internal",
+                "page": "Attorney General of Guyana"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 August 2020"
+          },
+          "predecessor1": {
+            "text": "Basil Williams"
+          },
+          "term_start2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor2": {
+            "text": "Charles Ramson"
+          },
+          "successor2": {
+            "text": "Basil Williams"
+          },
+          "party": {
+            "text": "People's Progressive Party",
+            "links": [
+              {
+                "text": "People's Progressive Party",
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "🇬🇾 Guyanese",
+            "links": [
+              {
+                "text": "🇬🇾",
+                "type": "internal",
+                "page": "guyana"
+              },
+              {
+                "text": "Guyanese",
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.stabroeknews.com/2020/08/05/news/guyana/nineteen-new-ministers-appointed-vickram-bharrat-named-minister-of-natural-resources/",
+          "title": "Nineteen new ministers appointed, Vickram Bharrat named Minister of Natural Resources",
+          "website": "Stabroek News",
+          "access-date": "2 September 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "guyana-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Mohabir Anil Nandlall LinkedIn page.",
+            "links": [
+              {
+                "text": "Mohabir Anil Nandlall LinkedIn page.",
+                "type": "external",
+                "site": "http://www.linkedin.com/pub/mohabir-anil-nandlall/74/6aa/427"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "title": "Pauline Campbell-Sukhai",
+  "pageID": 65976331,
+  "categories": [
+    "Living people",
+    "Members of the National Assembly (Guyana)",
+    "Year of birth missing (living people)",
+    "Government ministers of Guyana",
+    "Guyanese women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pauline Rose Ann Campbell-Sukhai is a Guyanese politician.",
+              "links": [
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pauline Rose Ann Campbell-Sukhai"
+                ]
+              }
+            },
+            {
+              "text": "She is the current Minister of Amerindian Affairs in Guyana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed Minister on August 5, 2020, by President Irfaan Ali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            },
+            {
+              "text": "She had previously served in that position from January 4, 2008 to May 15, 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pauline Campbell-Sukhai"
+          },
+          "office": {
+            "text": "Minister of Amerindian Affairs in Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "image": {
+            "text": "Pauline Sukhai 2022 (cropped).jpg"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "president": {
+            "text": "Irfaan Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irfaan Ali"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "August 5, 2020"
+          },
+          "predecessor": {
+            "text": "Sydney Allicock",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sydney Allicock"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Bharrat Jagdeo\nDonald Ramotar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bharrat Jagdeo"
+              },
+              {
+                "type": "internal",
+                "page": "Donald Ramotar"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "January 4, 2008"
+          },
+          "termend1": {
+            "text": "May 15, 2015"
+          },
+          "predecessor1": {
+            "text": "Carolyn Rodrigues",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolyn Rodrigues"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sydney Allicock",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sydney Allicock"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "October 14, 2020",
+          "title": "Members of parliamentary committees named",
+          "url": "https://www.stabroeknews.com/2020/10/14/news/guyana/members-of-parliamentary-committees-named/",
+          "access-date": "November 30, 2020",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "La langue arawak tente de survivre – Toute l'actualité de la Guyane sur Internet – FranceGuyane.fr",
+          "url": "http://www.franceguyane.fr/actualite/education-sante-environnement/la-langue-arawak-tente-de-survivre-174265.php",
+          "access-date": "November 30, 2020",
+          "website": "France-Guyane",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Guyana Government",
+          "url": "https://parliament.gov.gy/about-parliament/parliamentarian/pauline-campbell-sukhai",
+          "url-status": "live",
+          "access-date": "November 30, 2020",
+          "website": "Parliament",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Guyana: Cabinet",
+          "url": "https://pdba.georgetown.edu/Executive/Guyana/cabinet.html",
+          "website": "Political Database of the Americas",
+          "publisher": "Georgetown University",
+          "date": "March 21, 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Bio: Hon. Sydney Allicock",
+          "url": "https://moaa.gov.gy/wp-content/uploads/2015/03/bio_hon_sydney_allicock.pdf",
+          "website": "Ministry of Indigenous People’s Affairs, Guyana",
+          "date": "2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

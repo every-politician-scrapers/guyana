@@ -1,0 +1,175 @@
+{
+  "title": "Nigel Dharamlall",
+  "pageID": 66284957,
+  "categories": [
+    "Living people",
+    "Members of the National Assembly (Guyana)",
+    "Government ministers of Guyana",
+    "People's Progressive Party (Guyana) politicians",
+    "South American political people",
+    "Year of birth missing (living people)",
+    "21st-century Guyanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nigel Deonarine Dharamlall (born Guyana) is a Guyanese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                },
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nigel Deonarine Dharamlall"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Guyanese Minister of Local Government and Regional Development in Guyana.",
+              "links": [
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ]
+            },
+            {
+              "text": "Dharamlall was sworn into President Irfaan Ali's cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Minister in August 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nigel Dharamlall"
+          },
+          "office": {
+            "text": "Minister of Local Government and Regional Development in Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "August 5, 2020"
+          },
+          "appointer": {
+            "text": "Irfaan Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irfaan Ali"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Progressive Party (Guyana)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "nationality": {
+            "text": "Guyanese",
+            "links": [
+              {
+                "text": "Guyanese",
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "December 6, 2020",
+          "title": "136,000 Region Four households to benefit from gov’t COVID-19 grant",
+          "url": "https://www.stabroeknews.com/2020/12/06/news/guyana/136000-region-four-households-to-benefit-from-govt-covid-19-grant/",
+          "access-date": "January 4, 2021",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chabrol",
+          "first": "Denis",
+          "date": "August 5, 2020",
+          "title": "President Ali swears in 19 other Cabinet members",
+          "url": "https://demerarawaves.com/2020/08/05/president-ali-swears-in-19-other-cabinet-members/",
+          "access-date": "January 4, 2021",
+          "website": "Demerara Waves Online News- Guyana",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chabrol",
+          "first": "Denis",
+          "date": "August 6, 2020",
+          "title": "PPP to continue holding local government elections – new Local Govt Minister",
+          "url": "https://demerarawaves.com/2020/08/06/ppp-to-continue-holding-local-government-elections-new-local-govt-minister/",
+          "access-date": "January 4, 2021",
+          "website": "Demerara Waves Online News- Guyana",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

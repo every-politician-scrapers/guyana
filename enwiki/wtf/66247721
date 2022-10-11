@@ -1,0 +1,158 @@
+{
+  "title": "Vindhya Persaud",
+  "pageID": 66247721,
+  "categories": [
+    "Living people",
+    "Guyanese medical doctors",
+    "Members of the National Assembly (Guyana)",
+    "Government ministers of Guyana",
+    "People's Progressive Party (Guyana) politicians",
+    "Year of birth missing (living people)",
+    "21st-century Guyanese politicians",
+    "21st-century women politicians",
+    "People from Georgetown, Guyana"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vindhya Vasini Persaud (born Georgetown, Guyana) is a medical doctor and politician.",
+              "links": [
+                {
+                  "text": "Georgetown",
+                  "type": "internal",
+                  "page": "Georgetown, Guyana"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vindhya Vasini Persaud"
+                ]
+              }
+            },
+            {
+              "text": "She is the current Guyanese Minister of Human Services and Social Security."
+            },
+            {
+              "text": "She was appointed Minister since August 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vindhya Vasini Persaud"
+          },
+          "image": {
+            "text": "Vindhya Persaud (cropped).jpg"
+          },
+          "birth_place": {
+            "text": "Georgetown, Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Georgetown, Guyana"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Medical doctor and politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Medical doctor"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Human Services and Social Security in Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "appointer": {
+            "text": "Irfaan Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irfaan Ali"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Progressive Party (Guyana)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "5 August 2020"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "20 June 2013",
+          "title": "Dr Vindhya Persaud elected new head of Dharmic Sabha",
+          "url": "https://www.stabroeknews.com/2013/06/20/news/guyana/dr-vindhya-persaud-elected-new-head-of-dharmic-sabha/",
+          "access-date": "31 December 2020",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "SKNVibes {{!}} Speech by Minister of State for External Affairs & Parliamentary Affairs at PBD Virtual Conference \"Role of Diaspora in Promotion of Indian Culture Abroad\"",
+          "url": "https://www.sknvibes.com/news/newsdetails.cfm/113914",
+          "access-date": "31 December 2020",
+          "website": "www.sknvibes.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "20 August 2020",
+          "title": "PPP/C releases list of MPs",
+          "url": "https://www.stabroeknews.com/2020/08/19/news/guyana/ppp-c-releases-list-of-mps/",
+          "access-date": "31 December 2020",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guyana-bio-stub"
+        }
+      ]
+    }
+  ]
+}

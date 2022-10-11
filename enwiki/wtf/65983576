@@ -1,0 +1,135 @@
+{
+  "title": "Charles S. Ramson",
+  "pageID": 65983576,
+  "categories": [
+    "Living people",
+    "Members of the National Assembly (Guyana)",
+    "Year of birth missing (living people)",
+    "Government ministers of Guyana",
+    "21st-century Guyanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Charles S. Ramson is a Guyanese politician.",
+              "links": [
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Charles S. Ramson"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister of Culture, Youth and Sports in Guyana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Minister on August 5, 2020, by President Irfaan Ali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Charles S. Ramson"
+          },
+          "office": {
+            "text": "Minister of Culture, Youth and Sports of Guyana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guyana"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "termstart": {
+            "text": "August 5, 2020"
+          },
+          "party": {
+            "text": "People's Progressive Party (Guyana)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Chabrol",
+          "first": "Denis",
+          "date": "September 24, 2020",
+          "title": "Guyana’s artists, cultural workers to be registered- Culture Minister Ramson",
+          "url": "https://demerarawaves.com/2020/09/24/guyanas-artists-cultural-workers-to-be-registered-culture-minister-ramson/",
+          "access-date": "December 1, 2020",
+          "website": "Demerara Waves Online News- Guyana",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chabrol",
+          "first": "Denis",
+          "date": "October 17, 2020",
+          "title": "Ramson dismisses suggestion of political motive for assisting communities",
+          "url": "https://demerarawaves.com/2020/10/17/ramson-dismisses-suggestion-of-political-motive-for-assisting-communities/",
+          "access-date": "December 1, 2020",
+          "website": "Demerara Waves Online News- Guyana",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

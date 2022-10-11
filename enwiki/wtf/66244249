@@ -1,0 +1,110 @@
+{
+  "title": "Susan Rodrigues",
+  "pageID": 66244249,
+  "categories": [
+    "Living people",
+    "People's Progressive Party (Guyana) politicians",
+    "Government ministers of Guyana",
+    "Members of the National Assembly (Guyana)",
+    "1987 births",
+    "Guyanese women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Margaret Rodrigues (born 1987) is a Guyanese Politician, serving as Minister within the Ministry of House and Water.",
+              "links": [
+                {
+                  "text": "Minister",
+                  "type": "internal",
+                  "page": "Minister (government)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of House and Water"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susan Margaret Rodrigues"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed to the position by President Mohamed Irfaan Ali, on 6 August 2020.",
+              "links": [
+                {
+                  "text": "President Mohamed Irfaan Ali",
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Susan Rodrigues"
+          },
+          "office": {
+            "text": "Minister within the Ministry of House and Water"
+          },
+          "alongside": {
+            "text": "Collin Croal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Collin Croal"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "6 August 2020"
+          },
+          "predecessor": {
+            "text": "Office Established"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "birth_date": {
+            "text": "1987",
+            "number": 1987
+          },
+          "caption": {
+            "text": "Parliamentary Portrait, 2020"
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

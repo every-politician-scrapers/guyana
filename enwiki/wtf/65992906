@@ -1,0 +1,189 @@
+{
+  "title": "Priya Manickchand",
+  "pageID": 65992906,
+  "categories": [
+    "Living people",
+    "Members of the National Assembly (Guyana)",
+    "Year of birth missing (living people)",
+    "Government ministers of Guyana",
+    "Guyanese women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Priya Manickchand is a Guyanese politician.",
+              "links": [
+                {
+                  "text": "Guyanese",
+                  "type": "internal",
+                  "page": "Guyanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Priya Manickchand"
+                ]
+              }
+            },
+            {
+              "text": "She is holding the position of Minister of Education in Guyana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed Minister of Education on August 5, 2020, by President Irfaan Ali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irfaan Ali"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guyanese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Priya Devi Manickchand"
+          },
+          "office": {
+            "text": "Minister of Education"
+          },
+          "termstart": {
+            "text": "5 August 2020"
+          },
+          "termstart2": {
+            "text": "5 December 2011"
+          },
+          "termend2": {
+            "text": "16 May 2015"
+          },
+          "president": {
+            "text": "Irfaan Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irfaan Ali"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Donald Ramotar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Donald Ramotar"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Shaik Baksh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shaik Baksh"
+              }
+            ]
+          },
+          "succeeded2": {
+            "text": "Nicolette Henry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolette Henry"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Nicolette Henry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolette Henry"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "National Assembly of Guyana"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Hon. Priya D. Manickchand",
+          "url": "http://parliament.gov.gy/new2/about-parliament/parliamentarian/priya-manickchand",
+          "url-status": "live",
+          "access-date": "2020-12-02",
+          "website": "parliament.gov.gy",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-12-01",
+          "title": "More than 2,000 students absent since reopening for three grades",
+          "url": "https://www.stabroeknews.com/2020/12/01/news/guyana/more-than-2000-students-absent-since-reopening-for-three-grades/",
+          "access-date": "2020-12-02",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-11-27",
+          "title": "Ministry mobilising TV stations to expand Learning Channel",
+          "url": "https://www.stabroeknews.com/2020/11/27/news/guyana/ministry-mobilising-tv-stations-to-expand-learning-channel/",
+          "access-date": "2020-12-02",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-08-05",
+          "title": "Nineteen new ministers appointed, Vickram Bharrat named Minister of Natural Resources",
+          "url": "https://www.stabroeknews.com/2020/08/05/news/guyana/nineteen-new-ministers-appointed-vickram-bharrat-named-minister-of-natural-resources/",
+          "access-date": "2020-12-02",
+          "website": "Stabroek News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guyana-politician-stub"
+        }
+      ]
+    }
+  ]
+}
