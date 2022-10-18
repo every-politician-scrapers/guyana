@@ -257,6 +257,27 @@
               }
             ]
           },
+          "predecessor1": {
+            "text": "Janet Jagan Reepu Daman Persaud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Reepu Daman Persaud"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Reepu Daman Persaud"
+          },
+          "alongside1": {
+            "text": "Sam Hinds",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sam Hinds"
+              }
+            ]
+          },
           "office2": {
             "text": "7th President of Guyana",
             "links": [

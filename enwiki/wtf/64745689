@@ -151,39 +151,14 @@
           "image": {
             "text": "Hon. Brigadier (ret'd) Mark Anthony Phillips, M.S.S., M.P..jpg"
           },
-          "office": {
-            "text": "9th Prime Minister of Guyana",
+          "office1": {
+            "text": "9th Prime Minister and First Vice President of Guyana",
             "links": [
               {
+                "text": "Prime Minister",
                 "type": "internal",
                 "page": "Prime Minister of Guyana"
-              }
-            ]
-          },
-          "president": {
-            "text": "Irfaan Ali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Irfaan Ali"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2 August 2020"
-          },
-          "predecessor": {
-            "text": "Moses Nagamootoo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moses Nagamootoo"
-              }
-            ]
-          },
-          "office1": {
-            "text": "9th First Vice President of Guyana",
-            "links": [
+              },
               {
                 "text": "First Vice President of Guyana",
                 "type": "internal",
@@ -201,13 +176,10 @@
             ]
           },
           "term_start1": {
-            "text": "2 August 2020 Serving with Bharrat Jagdeo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharrat Jagdeo"
-              }
-            ]
+            "text": "2 August 2020"
+          },
+          "alongside1": {
+            "text": "Bharrat Jagdeo (as Vice President)"
           },
           "predecessor1": {
             "text": "Moses Nagamootoo",
@@ -267,6 +239,42 @@
                 "text": "People's Progressive Party/Civic",
                 "type": "internal",
                 "page": "People's Progressive Party (Guyana)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Guyana (BSS) Pontificia Universidad Católica Madre y Maestra (MS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Guyana"
+              },
+              {
+                "text": "BSS",
+                "type": "internal",
+                "page": "Bachelor of Social Science"
+              },
+              {
+                "type": "internal",
+                "page": "Pontificia Universidad Católica Madre y Maestra"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              }
+            ]
+          },
+          "education": {
+            "text": "Inter-American Defense College United States Army Command and General Staff College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Inter-American Defense College"
+              },
+              {
+                "type": "internal",
+                "page": "United States Army Command and General Staff College"
               }
             ]
           },
