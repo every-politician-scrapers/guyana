@@ -1,27 +1,27 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q56063486,Attorney General of Guyana,,,Q734,Q734,,
-Q114565676,Minister in the Ministry of Housing and Water,,,Q734,Q734,,
-Q114565677,Minister in the Ministry of Local Government and Regional Development,,,Q734,Q734,,
-Q114565678,Minister in the Ministry of Public Works,,,Q734,Q734,,
-Q6866032,Minister of Agriculture,,,Q734,Q734,,
-Q114565468,Minister of Amerindian Affairs,,,Q734,Q734,,
-Q114565680,"Minister of Culture, Youth, and Sport",,,Q734,Q734,,
-Q114565388,Minister of Education of Guyana,Q55623267,Ministry of Education of Guyana,,Q734,,
-Q114565391,Minister of Finance,Q96393349,Ministry of Finance,,Q734,,
-Q113470671,Minister of Foreign Affairs,Q6866999,Ministry of Foreign Affairs,,Q734,,
-Q114565390,Minister of Health of Guyana,,,Q734,Q734,,
-Q114565466,Minister of Home Affairs,,,Q734,Q734,,
-Q115057456,Minister of Home Affairs,Q115057430,Ministry of Home Affairs of Guyana,,Q734,,
-Q114565682,Minister of Housing and Water,,,Q734,Q734,,
-Q114565684,Minister of Human Services and Social Security,,,Q734,Q734,,
-Q114565685,Minister of Labour,,,Q734,Q734,,
-Q114565686,Minister of Local Government and Regional Development,,,Q734,Q734,,
-Q114565687,Minister of Natural Resources,,,Q734,Q734,,
-Q114565688,Minister of Parliamentary Affairs and Governance,,,Q734,Q734,,
-Q114565689,Minister of Public Service,,,Q734,Q734,,
-Q114565690,Minister of Public Works,,,Q734,Q734,,
-Q114565691,"Minister of Tourism, Industry, and Commerce",,,Q734,Q734,,
-Q114565692,Minister within the Office of the Prime Minister,,,Q734,Q734,,
-Q685925,President of Guyana,,,Q734,Q734,1970,
-Q376006,Prime Minister of Guyana,,,Q734,Q734,,
-Q48775023,Vice President of Guyana,,,Q734,Q734,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q56063486,Attorney General of Guyana,,,Q734,Q734,,,1
+Q114565676,Minister in the Ministry of Housing and Water,,,Q734,Q734,,,1
+Q114565677,Minister in the Ministry of Local Government and Regional Development,,,Q734,Q734,,,1
+Q114565678,Minister in the Ministry of Public Works,,,Q734,Q734,,,1
+Q6866032,Minister of Agriculture,,,Q734,Q734,,,5
+Q114565468,Minister of Amerindian Affairs,,,Q734,Q734,,,2
+Q114565680,"Minister of Culture, Youth, and Sport",,,Q734,Q734,,,1
+Q114565388,Minister of Education of Guyana,Q55623267,Ministry of Education of Guyana,,Q734,,,2
+Q114565391,Minister of Finance,Q96393349,Ministry of Finance,,Q734,,,2
+Q113470671,Minister of Foreign Affairs,Q6866999,Ministry of Foreign Affairs,,Q734,,,2
+Q114565390,Minister of Health of Guyana,,,Q734,Q734,,,1
+Q114565466,Minister of Home Affairs,,,Q734,Q734,,,2
+Q115057456,Minister of Home Affairs,Q115057430,Ministry of Home Affairs of Guyana,,Q734,,,0
+Q114565682,Minister of Housing and Water,,,Q734,Q734,,,1
+Q114565684,Minister of Human Services and Social Security,,,Q734,Q734,,,1
+Q114565685,Minister of Labour,,,Q734,Q734,,,1
+Q114565686,Minister of Local Government and Regional Development,,,Q734,Q734,,,1
+Q114565687,Minister of Natural Resources,,,Q734,Q734,,,1
+Q114565688,Minister of Parliamentary Affairs and Governance,,,Q734,Q734,,,1
+Q114565689,Minister of Public Service,,,Q734,Q734,,,1
+Q114565690,Minister of Public Works,,,Q734,Q734,,,1
+Q114565691,"Minister of Tourism, Industry, and Commerce",,,Q734,Q734,,,1
+Q114565692,Minister within the Office of the Prime Minister,,,Q734,Q734,,,1
+Q685925,President of Guyana,,,Q734,Q734,1970,,9
+Q376006,Prime Minister of Guyana,,,Q734,Q734,,,10
+Q48775023,Vice President of Guyana,,,Q734,Q734,,,8
