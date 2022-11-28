@@ -481,6 +481,17 @@
             }
           ]
         }
+      ],
+      "references": [
+        {
+          "title": "Global Business Forum LATAM {{!}} H.E. Dr. Mohamed Irfaan Ali",
+          "url": "https://staging.globalbusinessforum.com/latam",
+          "access-date": "2022-11-27",
+          "website": "staging.globalbusinessforum.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
       ]
     },
     {
@@ -555,6 +566,14 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "title": "Biography of His Excellency Dr Mohamed Irfaan Ali – President of the Co-operative Republic of Guyana and Commander-in-Chief of the Armed Forces – Office of the President",
+          "url": "https://op.gov.gy/index.php/presidents-biography/",
+          "access-date": "2022-11-27",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
