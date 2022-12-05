@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Irfaan Ali (born 25 April 1980) is a Guyanese politician and the president of Guyana.",
+              "text": "Mohamed Irfaan Ali (born 25 April 1980) is a Guyanese politician who has served as the tenth and current president of Guyana since 2020.",
               "links": [
                 {
                   "text": "Guyanese",
@@ -42,15 +42,12 @@
               }
             },
             {
-              "text": "Ali is the first Muslim president of Guyana, along with being the second Muslim head of state in the Americas after Noor Hassanali.",
+              "text": "He is the first Muslim to hold the office, along with being the second Muslim head of state in the Americas after Noor Hassanali of Trinidad and Tobago.",
               "links": [
                 {
+                  "text": "Muslim",
                   "type": "internal",
-                  "page": "Muslim"
-                },
-                {
-                  "type": "internal",
-                  "page": "Guyana"
+                  "page": "Muslims"
                 },
                 {
                   "type": "internal",
@@ -59,6 +56,10 @@
                 {
                   "type": "internal",
                   "page": "Noor Hassanali"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
                 }
               ]
             }
@@ -72,7 +73,7 @@
                 {
                   "text": "member of parliament",
                   "type": "internal",
-                  "page": "Member of Parliament"
+                  "page": "member of parliament"
                 },
                 {
                   "text": "People's Progressive Party/Civic",
@@ -87,7 +88,13 @@
               ]
             },
             {
-              "text": "He was sworn in as Guyana's 10th president on 2 August 2020, after months of legal challenges regarding the integrity of the election and even a consequential recount of all ballots."
+              "text": "He was sworn in as Guyana's tenth president on 2 August 2020, after months of legal challenges regarding the integrity of the election and even a consequential recount of all ballots.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guyana"
+                }
+              ]
             }
           ]
         }
