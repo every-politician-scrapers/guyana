@@ -309,7 +309,7 @@
         },
         {
           "url": "https://op.gov.gy/index.php/presidents-biography/",
-          "title": "President’s Biography",
+          "title": "President's Biography",
           "website": "Office of the President of Guyana",
           "access-date": "24 October 2020",
           "template": "citation",
@@ -338,8 +338,8 @@
           "type": "web"
         },
         {
-          "last": "Yahya-Sakur",
-          "first": "Nafeeza",
+          "last1": "Yahya-Sakur",
+          "first1": "Nafeeza",
           "last2": "Kurmanaev",
           "first2": "Anatoly",
           "date": "2020-09-10",
@@ -354,7 +354,7 @@
         },
         {
           "date": "August 2, 2020",
-          "title": "As Guyana Gets First Practicing Muslim President, OAS Urges Weakness In Country’s Electoral System To Be Addressed",
+          "title": "As Guyana Gets First Practicing Muslim President, OAS Urges Weakness In Country's Electoral System To Be Addressed",
           "url": "https://www.newsamericasnow.com/caribbean-news-guyana-finally-gets-new-government/",
           "access-date": "August 6, 2020",
           "website": "Americas News Network",
@@ -719,7 +719,7 @@
         },
         {
           "url": "https://www.inewsguyana.com/trumped-up-charges-dismissed-against-president-ali/",
-          "title": "“Trumped up” charges dismissed against President Ali",
+          "title": "\"Trumped up\" charges dismissed against President Ali",
           "website": "iNews Guyana",
           "access-date": "23 August 2020",
           "template": "citation",
